@@ -9,7 +9,7 @@ public class Main {
         System.out.printf("Hello");
         System.out.println("keldi");
         System.out.println("KKK");
-
+        System.out.println("Hello");
         System.out.println("Bir");
 
                 System.out.println("KKK");
