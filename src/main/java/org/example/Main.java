@@ -9,7 +9,12 @@ public class Main {
         System.out.printf("Hello");
         System.out.println("keldi");
         System.out.println("KKK");
+
         System.out.println("Bir");
+
+                System.out.println("KKK");
+
+
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
